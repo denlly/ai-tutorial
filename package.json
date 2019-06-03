@@ -1,0 +1,10 @@
+{
+    "name": "ai-tutorial",
+    "version": "0.0.1",
+    "description": "",
+    "scripts": {
+        "doc": "docsify serve docs"
+    },
+    "author": "",
+    "license": "ISC"
+}
